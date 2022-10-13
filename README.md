@@ -24,7 +24,7 @@ Blah blah blah
 
 [![usecase.png](https://i.postimg.cc/vZfjTKwG/usecase.png)](https://postimg.cc/qNBQZj7F)
 
-# Publishing
+# Publishing - non-software but still heavy technical design
 Front Cover
 
 [![cover.jpg](https://i.postimg.cc/xjXj1Lgt/cover.jpg)](https://postimg.cc/QVrZ692T)
