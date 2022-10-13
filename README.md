@@ -12,10 +12,11 @@ Blah blah blah
 [![cookbot.png](https://i.postimg.cc/yxhBF8w8/cookbot.png)](https://postimg.cc/wRBSzgqC)
 
 # Java UML - class and object diagrams
-Blah blah blah
+class diagram
 
 [![class.png](https://i.postimg.cc/Wb6g4mYQ/class.png)](https://postimg.cc/zVvVthrj)
 
+object diagram
 [![object.png](https://i.postimg.cc/1zpQxt3c/object.png)](https://postimg.cc/kVXZK78B)
 
 # Use Case
@@ -25,7 +26,9 @@ Blah blah blah
 
 # Publishing
 Front Cover
+
 [![cover.jpg](https://i.postimg.cc/xjXj1Lgt/cover.jpg)](https://postimg.cc/QVrZ692T)
 
 Back Cover
+
 [![covereback.jpg](https://i.postimg.cc/0NNRHqBc/covereback.jpg)](https://postimg.cc/nXNPCNZD)
