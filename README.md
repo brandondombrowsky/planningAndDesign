@@ -5,12 +5,15 @@ I love, LOVE the planning and design stage of the SDLC! I enjoy collating requir
 For my web applications practicum, our class worked with Floop, a local company specializing in teacher/peer to student feedback. My team was tasked with adding pdf download functionality to the UI.
 
 Data flow diagram:
+
 [![dfd.png](https://i.postimg.cc/CKg84NM4/dfd.png)](https://postimg.cc/QFfV8cTB)
 
 Sprints:
+
 [![sprints.png](https://i.postimg.cc/wBZ3T3Xt/sprints.png)](https://postimg.cc/DWQ7xvYF)
 
 Milestones:
+
 [![milestones.png](https://i.postimg.cc/3J22VRS1/milestones.png)](https://postimg.cc/9rF4qWjw)
 
 # MySQL ERD
