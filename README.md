@@ -2,7 +2,7 @@
 I love, LOVE the planning and design stage of the SDLC! I enjoy collating requirements and specifications into a project plan and presenting my approach to the team. I find it thrilling to incorporate stakeholder feedback into plan revisions that improve the scope of the project. I just love all of it!
 
 # Agile Sprints
-For my web applications practicum, our class worked with Floop, a local company specializing in teacher/peer to student feedback. My team was tasked with adding pdf download functionality to the UI within the teacher dashboard.
+For my web applications practicum, our class worked with Floop, a local company specializing in teacher/peer to student feedback. My team was tasked with adding pdf download functionality to the UI within the teacher dashboard using React.
 
 Data flow diagram: what is it we needed to do
 
