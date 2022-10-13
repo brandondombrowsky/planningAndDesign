@@ -5,7 +5,6 @@ I LOVE the planning and design stage of the SDLC! I enjoy collating the requirem
 Blah blah blah
 
 [![sprints.png](https://i.postimg.cc/wBZ3T3Xt/sprints.png)](https://postimg.cc/DWQ7xvYF)
-
 # MySQL ERD
 Blah blah blah
 
@@ -17,6 +16,7 @@ class diagram
 [![class.png](https://i.postimg.cc/Wb6g4mYQ/class.png)](https://postimg.cc/zVvVthrj)
 
 object diagram
+
 [![object.png](https://i.postimg.cc/1zpQxt3c/object.png)](https://postimg.cc/kVXZK78B)
 
 # Use Case
