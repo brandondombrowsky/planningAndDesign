@@ -16,12 +16,12 @@ Milestones: what we accomplished along the way
 
 [![milestones.png](https://i.postimg.cc/3J22VRS1/milestones.png)](https://postimg.cc/9rF4qWjw)
 
-# MySQL ERD
+# MySQL ERD - "Cookbot"
 For this assignemnt, I was tasked with creating a database design for a robot that processes ingredients and cooks meals. Professor Cook said my ERD was one of the best she had ever seen, even asking my permission to use my design as an example for future classes.  
 
 [![cookbot.png](https://i.postimg.cc/yxhBF8w8/cookbot.png)](https://postimg.cc/wRBSzgqC)
 
-# Java UML - class and object diagrams
+# Java UML - Class & Object Diagrams
 In my Java II class we were required to create class and object diagrams of each of our major projects. 
 
 Class diagram: generic binary search tree 
@@ -32,18 +32,18 @@ Object diagram: related object orientation
 
 [![object.png](https://i.postimg.cc/1zpQxt3c/object.png)](https://postimg.cc/kVXZK78B)
 
-# Use Case
+# Use Case - dream wedding
 In my project management we were required to write a project plan and schedule for a large scale event. I picked a dream wedding, using agile methodology, in 6 sprints. This was my use case prior to writing the plan/schedule.
 
 [![usecase.png](https://i.postimg.cc/vZfjTKwG/usecase.png)](https://postimg.cc/qNBQZj7F)
 
-# Publishing - non-software but still heavy technical design
+# Publishing - non-software but heavy technical design
 Using the Adobe Design suite, I self-published a 100-page hardback and 125-page digital cookbook. I taught myself InDesign, Illustrator, and Photoshop to accomplish this ginormous task. What I lacked the skills for, I hired and managed sub-contractors.
 
-Front Cover
+Front Cover:
 
 [![cover.jpg](https://i.postimg.cc/xjXj1Lgt/cover.jpg)](https://postimg.cc/QVrZ692T)
 
-Back Cover
+Back Cover:
 
 [![covereback.jpg](https://i.postimg.cc/0NNRHqBc/covereback.jpg)](https://postimg.cc/nXNPCNZD)
