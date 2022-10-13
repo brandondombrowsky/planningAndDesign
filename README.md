@@ -32,12 +32,12 @@ Object diagram: related object orientation
 
 [![object.png](https://i.postimg.cc/1zpQxt3c/object.png)](https://postimg.cc/kVXZK78B)
 
-# Use Case - dream wedding
+# Use Case - Dream Wedding
 In my project management we were required to write a project plan and schedule for a large scale event. I picked a dream wedding, using agile methodology, in 6 sprints. This was my use case prior to writing the plan/schedule.
 
 [![usecase.png](https://i.postimg.cc/vZfjTKwG/usecase.png)](https://postimg.cc/qNBQZj7F)
 
-# Publishing - non-software but heavy technical design
+# Publishing - Non-software Technical Design
 Using the Adobe Design suite, I self-published a 100-page hardback and 125-page digital cookbook. I taught myself InDesign, Illustrator, and Photoshop to accomplish this ginormous task. What I lacked the skills for, I hired and managed sub-contractors.
 
 Front Cover:
