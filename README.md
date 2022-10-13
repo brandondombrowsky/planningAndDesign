@@ -4,7 +4,7 @@ I LOVE the planning and design stage of the SDLC! I enjoy collating the requirem
 # Agile Sprints
 Blah blah blah
 
-[![agile-Sprints.png](https://i.postimg.cc/Dz3gNfDT/agile-Sprints.png)](https://postimg.cc/87wMJGNK)
+[![sprints.png](https://i.postimg.cc/wBZ3T3Xt/sprints.png)](https://postimg.cc/DWQ7xvYF)
  
 # MySQL ERD
 Blah blah blah
