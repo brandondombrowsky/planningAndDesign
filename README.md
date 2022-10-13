@@ -5,6 +5,7 @@ I LOVE the planning and design stage of the SDLC! I enjoy collating the requirem
 Blah blah blah
 
 [![sprints.png](https://i.postimg.cc/wBZ3T3Xt/sprints.png)](https://postimg.cc/DWQ7xvYF)
+
 # MySQL ERD
 Blah blah blah
 
