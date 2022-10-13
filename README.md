@@ -33,7 +33,7 @@ Object diagram: related object orientation
 [![object.png](https://i.postimg.cc/1zpQxt3c/object.png)](https://postimg.cc/kVXZK78B)
 
 # Use Case - Dream Wedding
-In my project management we were required to write a project plan and schedule for a large scale event. I picked a dream wedding, using agile methodology, in 6 sprints. This was my use case prior to writing the plan/schedule.
+In my project management course we were required to write a project plan and schedule for a large scale event that we moved forward throughout the quarter. I picked a dream wedding, using the agile methodology, in 6 sprints. This was my use case, with relevant stakeholders, created prior to writing the plan/schedule.
 
 [![usecase.png](https://i.postimg.cc/vZfjTKwG/usecase.png)](https://postimg.cc/qNBQZj7F)
 
