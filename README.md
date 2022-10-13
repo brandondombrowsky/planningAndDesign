@@ -1,15 +1,15 @@
 # planningAndDesign
 I LOVE the planning and design stage of the SDLC! I enjoy collating the requirements and specifications of a project plan and presenting my findings to the team. I find it thrilling to incorporate stakeholder feedback into plan revisions that improve the scope of the project. I just love all of it!  
 
-# Agile Sprints
-Blah blah blah
-
-[![sprints.png](https://i.postimg.cc/wBZ3T3Xt/sprints.png)](https://postimg.cc/DWQ7xvYF)
-
 # MySQL ERD
 Blah blah blah
 
 [![cookbot.png](https://i.postimg.cc/yxhBF8w8/cookbot.png)](https://postimg.cc/wRBSzgqC)
+
+# Agile Sprints
+Blah blah blah
+
+[![sprints.png](https://i.postimg.cc/wBZ3T3Xt/sprints.png)](https://postimg.cc/DWQ7xvYF)
 
 # Java UML - class and object diagrams
 class diagram
