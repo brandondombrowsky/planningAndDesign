@@ -4,7 +4,7 @@ I love, LOVE the planning and design stage of the SDLC! I enjoy collating requir
 # Agile Sprints
 For my web applications practicum, our class worked with Floop, a local company specializing in teacher/peer to student feedback. My team was tasked with adding pdf download functionality to the UI within the teacher dashboard using React.
 
-Data flow diagram: what is it we needed to do
+Data flow diagram: what we needed to do
 
 [![dfd.png](https://i.postimg.cc/CKg84NM4/dfd.png)](https://postimg.cc/QFfV8cTB)
 
