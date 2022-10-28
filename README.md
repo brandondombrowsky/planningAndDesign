@@ -38,7 +38,7 @@ In my project management course we were required to write a project plan and sch
 [![usecase.png](https://i.postimg.cc/vZfjTKwG/usecase.png)](https://postimg.cc/qNBQZj7F)
 
 # Publishing - Non-software Technical Design
-Using the Adobe Design Cloud, I self-published a 100-page hardback and 125-page digital cookbook. I taught myself InDesign, Illustrator, and Photoshop to accomplish this ginormous task. What I lacked the skills for, I hired and managed sub-contractors.
+Using the Adobe Design Cloud, I self-published a 100-page hardback and 125-page digital cookbook. I taught myself InDesign, Illustrator, and Photoshop to accomplish this ginormous task. I also hired and managed sub-contractors.
 
 Front Cover:
 
