@@ -20,11 +20,11 @@ Milestones: what we accomplished along the way
 
 FFI:
 
-[![777.png](https://i.postimg.cc/7YTrKM1S/777.png)](https://postimg.cc/rKcHm4Pp)
+[![666.png](https://i.postimg.cc/xdd23r61/666.png)](https://postimg.cc/TKBFTs8z)
 
 RFQ:
 
-[![666.png](https://i.postimg.cc/xdd23r61/666.png)](https://postimg.cc/TKBFTs8z)
+[![777.png](https://i.postimg.cc/7YTrKM1S/777.png)](https://postimg.cc/rKcHm4Pp)
 
 # MySQL ERD - "Cookbot"
 For this assignemnt, I was tasked with creating a database design for a robot that processes ingredients and cooks meals. Professor Cook said my ERD was one of the best she had ever seen, even asking my permission to use my design as an example for future classes.  
