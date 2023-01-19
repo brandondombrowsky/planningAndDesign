@@ -18,7 +18,7 @@ Milestones: what we accomplished along the way
 
 # RFI & RFQ
 
-RFI:
+RFI: (we used Azure)
 
 [![666.png](https://i.postimg.cc/xdd23r61/666.png)](https://postimg.cc/TKBFTs8z)
 
