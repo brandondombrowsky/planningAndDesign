@@ -17,10 +17,13 @@ Milestones: what we accomplished along the way
 [![milestones.png](https://i.postimg.cc/3J22VRS1/milestones.png)](https://postimg.cc/9rF4qWjw)
 
 # RFI & RFQ
+
 FFI:
+
 [![777.png](https://i.postimg.cc/7YTrKM1S/777.png)](https://postimg.cc/rKcHm4Pp)
 
 RFQ:
+
 [![666.png](https://i.postimg.cc/xdd23r61/666.png)](https://postimg.cc/TKBFTs8z)
 
 # MySQL ERD - "Cookbot"
