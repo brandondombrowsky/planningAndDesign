@@ -18,11 +18,11 @@ Milestones: what we accomplished along the way
 
 # RFI & RFQ
 
-RFI: (we used Azure)
+RFI: (we used Swagger.io)
 
 [![666.png](https://i.postimg.cc/xdd23r61/666.png)](https://postimg.cc/TKBFTs8z)
 
-RFQ:
+RFQ: (we used Azure)
 
 [![777.png](https://i.postimg.cc/7YTrKM1S/777.png)](https://postimg.cc/rKcHm4Pp)
 
