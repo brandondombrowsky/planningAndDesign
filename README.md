@@ -22,7 +22,7 @@ RFI: (we used Swagger.io)
 
 [![666.png](https://i.postimg.cc/xdd23r61/666.png)](https://postimg.cc/TKBFTs8z)
 
-RFQ: (we used Azure)
+RFQ: (we used AWS)
 
 [![777.png](https://i.postimg.cc/7YTrKM1S/777.png)](https://postimg.cc/rKcHm4Pp)
 
