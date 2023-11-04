@@ -1,6 +1,14 @@
 # planningAndDesign
 I love, LOVE the planning and design stage of the SDLC! I enjoy collating requirements and specifications into a project plan and presenting my approach to the team. I find it thrilling to incorporate stakeholder feedback into plan revisions that improve the scope of the project. I just love all of it!
 
+# Smartsheet Project Plan for Belidna's Closet
+For the first 100-days of the project, I created a Smartsheet project plan to represent not only what we did, but what we accomplished. When the project moved into its next phase, the Technical Project Managers I was supervising expanded upon my work and continubed building a plan to meet our objectives.
+ 
+[![SS1.png](https://i.postimg.cc/SNCktKrW/SS1.png)](https://postimg.cc/VdfxJm26) 
+[![SS2.png](https://i.postimg.cc/J4NC52rx/SS2.png)](https://postimg.cc/qzvFkQC6)
+[![SS3.png](https://i.postimg.cc/TY9HwM2z/SS3.png)](https://postimg.cc/crvc9znh)
+[![SS4.png](https://i.postimg.cc/fb68FM59/SS4.png)](https://postimg.cc/1gr0Vhkm)
+
 # Agile Sprints
 For my web applications practicum, our class worked with Floop, a local company specializing in teacher/peer to student feedback. My team was tasked with adding pdf download functionality to the UI within the teacher dashboard using React.
 
